@@ -31,10 +31,6 @@ Title.TextScaled=true
 Title.Parent=Frame
 ```
 
----
-
-*Chat 2/2:*
-
 ```lua
 local InfoLabel=Instance.new("TextLabel")
 InfoLabel.Size=UDim2.new(1,-20,1,-40)
